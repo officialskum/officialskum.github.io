@@ -1,4 +1,4 @@
-## Andreas Jonasson's project portfolio
+## Andreas Jonasson's portfolio
 
 ## [Hyper Pong Group Project](https://github.com/LucaSalmi/HyperPongGruppB/)
 
