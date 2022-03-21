@@ -1,5 +1,3 @@
-## Andreas Jonasson's portfolio
-
 ## [Hyper Pong](https://github.com/LucaSalmi/HyperPongGruppB/)
 
 
