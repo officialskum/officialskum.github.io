@@ -20,7 +20,7 @@ A group project me and a couple of friends from school worked on (Hampus Brandtm
 
 Start Screen          |  Solarized Ocean
 :-------------------------:|:-------------------------: 
-![](https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png)  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png)
+!<img src>="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="341" height="677"/>  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png)
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
