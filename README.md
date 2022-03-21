@@ -33,9 +33,13 @@ what you got right / wrong during your playthrough!
 
 ## [Basic NotePad application built in Java](https://github.com/officialskum/NotePad_v2.0)
 
-<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png" width="341" height="671"/>
-<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png" width="341" height="671"/>
-<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png" width="341" height="671"/>
+Start Screen            |  Start Screen (Disco Themed)
+:-------------------------:|:-------------------------:
+!<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png" width="341" height="671"/>  |  <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png" width="341" height="671"/>
+
+In game view             |  
+:-------------------------:|:-------------------------:
+!<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png" width="341" height="671"/>  | 
 
 A lightweight (and slightly bland) notepad app I've made for my Java course at KYH! The UI so far is quite basic but it has all the necessary functionality 
 with a save/load function as well as a delete function to boot. Something I'm looking to work further on a rainy day. 😎
