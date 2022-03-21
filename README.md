@@ -44,7 +44,7 @@ Inside a note             |
 A lightweight (and slightly bland) notepad app I've made for my Java course at KYH! The UI so far is quite basic but it has all the necessary functionality 
 with a save/load function as well as a delete function to boot. Something I'm looking to work further on a rainy day. 😎
 
-## [Basic Weather application built in SwiftUI]
+## [Basic Weather application built in SwiftUI](https://github.com/officialskum/WeatherApp_SwiftUi-)
 
 <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681423900683/Bluscreen.png" width="341" height="671"/>
 <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681738489866/nightScreen.png" width="341" height="671"/>
