@@ -18,13 +18,13 @@ A group project me and a couple of friends from school worked on (Hampus Brandtm
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
-Start Screen          |  Solarized Ocean
-:-------------------------:|:-------------------------: 
-!<img src>="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="341" height="677"/>  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png)
-
-Solarized dark             |  Solarized Ocean
+Start Screen            |  In game (Level 1)
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png)  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png)
+!<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="341" height="677"/>  |  <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png" width="341" height="677"/>
+
+Frosty Overworld             |  Volcano Core Overworld
+:-------------------------:|:-------------------------:
+!<img src="https://media.discordapp.net/attachments/348467594115940354/955124238388449280/LevelSelectScreenTwo.png?width=339&height=677" width="341" height="677"/>  |  <img src="https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677" width="341" height="677"/>
 
 
 
