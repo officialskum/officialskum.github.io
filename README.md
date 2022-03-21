@@ -9,19 +9,18 @@
 <img src="https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677" width="341" height="671"/>
 
 
-Start Screen            |  Solarized Ocean
+Start Screen            |  In game (Level 1)
 :-------------------------:|:-------------------------:
 !<img src="https://media.discordapp.net/attachments/348467594115940354/955124238648508477/Startscreen.png?width=341&height=677" width="341" height="677"/>  |  <img src="https://media.discordapp.net/attachments/348467594115940354/955124237234995250/IngameScreen.png?width=339&height=677" width="341" height="677"/>
 
-Solarized dark             |  Solarized Ocean
+Overworld             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 !<img src="https://media.discordapp.net/attachments/348467594115940354/955124238388449280/LevelSelectScreenTwo.png?width=339&height=677" width="341" height="677"/>  |  <img src="https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677" width="341" height="677"/>
 
 
 ### Hyper Pong info: 
 
-A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus) and we even made our own theme song for the game! The idea was to create a pong game with an RPG element where you could earn 
-gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
+A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus) and we even made our own theme song for the game! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
 
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
