@@ -2,10 +2,12 @@
 
 ## [Hyper Pong](https://github.com/LucaSalmi/HyperPongGruppB/)
 
+<div>
 Start ScreenO | In game (Level 1)
 :-------------------------:|:-------------------------:
 !<img src="https://media.discordapp.net/attachments/348467594115940354/955124238648508477/Startscreen.png?width=341&height=677" width="330" height="677"/>  |  <img src="https://media.discordapp.net/attachments/348467594115940354/955124237234995250/IngameScreen.png?width=339&height=677" width="330" height="677"/>
-
+<div>
+  
 Frosty Overworld | Volcano Core Overworld
 :-------------------------:|:-------------------------:
 !<img src="https://media.discordapp.net/attachments/348467594115940354/955124238388449280/LevelSelectScreenTwo.png?width=339&height=677" width="341" height="677"/>  |  <img src="https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677" width="341" height="677"/>
