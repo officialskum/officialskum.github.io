@@ -31,7 +31,7 @@ In game view             |  Score Screen
 A colorful trivia app that I worked on together with a couple of classmates for our Swift course. It's a lightweight trivia app that uses the triviadb API to fetch and display questions with answers. We also implemented coredata to save and display highscore as well as functionality to revisit an old Quiz to see 
 what you got right / wrong during your playthrough! 
 
-## [Basic NotePad application built in Java]
+## [Basic NotePad application built in Java](https://github.com/officialskum/NotePad_v2.0)
 
 <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png" width="341" height="671"/>
 <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png" width="341" height="671"/>
