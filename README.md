@@ -18,11 +18,11 @@ A group project me and a couple of friends from school worked on (Hampus Brandtm
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
-Start Screen            |  In game (Level 1)
+Start Screen            |  Start Screen (Disco Themed)
 :-------------------------:|:-------------------------:
 !<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="341" height="677"/>  |  <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png" width="341" height="677"/>
 
-Frosty Overworld             |  Volcano Core Overworld
+In game view             |  Score Screen
 :-------------------------:|:-------------------------:
 !<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png" width="341" height="677"/>  |  <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png" width="341" height="671"/>
 
