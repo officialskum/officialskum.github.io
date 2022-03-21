@@ -46,8 +46,9 @@ with a save/load function as well as a delete function to boot. Something I'm lo
 
 ## [Basic Weather application built in SwiftUI](https://github.com/officialskum/WeatherApp_SwiftUi-)
 
-<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681423900683/Bluscreen.png" width="341" height="671"/>
-<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681738489866/nightScreen.png" width="341" height="671"/>
+Start Screen (Day mode)           |  Start Screen (Night mode)
+:-------------------------:|:-------------------------:
+!<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681423900683/Bluscreen.png" width="341" height="671"/>  |  <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681738489866/nightScreen.png" width="341" height="671"/>
 
 A vibrant and colorful weather application made with SwiftUI! Has a simple colorscheme with a toggle button for day/night mode! 
 
