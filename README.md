@@ -9,7 +9,6 @@
 
 ### Hyper Pong info: 
 
-```markdown
 A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus) and we even made our own theme song for the game! The idea was to create a pong game with an RPG element where you could earn 
 gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
 
