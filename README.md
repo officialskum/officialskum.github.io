@@ -26,7 +26,7 @@ In game view             |  Score Screen
 :-------------------------:|:-------------------------:
 !<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png" width="341" height="677"/>  |  <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png" width="341" height="671"/>
 
-
+### Trivia Quiz info: 
 
 A colorful trivia app that I worked on together with a couple of classmates for our Swift course. It's a lightweight trivia app that uses the triviadb API to fetch and display questions with answers. We also implemented coredata to save and display highscore as well as functionality to revisit an old Quiz to see 
 what you got right / wrong during your playthrough! 
