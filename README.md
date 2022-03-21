@@ -18,10 +18,15 @@ A group project me and a couple of friends from school worked on (Hampus Brandtm
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
-<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="341" height="677"/>
-<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png" width="341" height="677"/>
-<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png" width="341" height="677"/>
-<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png" width="341" height="671"/>
+Start Screen          |  Solarized Ocean
+:-------------------------:|:-------------------------: 
+![](https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png)  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png)
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png)  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png)
+
+
 
 A colorful trivia app that I worked on together with a couple of classmates for our Swift course. It's a lightweight trivia app that uses the triviadb API to fetch and display questions with answers. We also implemented coredata to save and display highscore as well as functionality to revisit an old Quiz to see 
 what you got right / wrong during your playthrough! 
