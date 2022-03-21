@@ -24,4 +24,25 @@ gems through playing which you could then spend in a gemshop for different perks
 A colorful trivia app that I worked on together with a couple of classmates for our Swift course. It's a lightweight trivia app that uses the triviadb API to fetch and display questions with answers. We also implemented coredata to save and display highscore as well as functionality to revisit an old Quiz to see 
 what you got right / wrong during your playthrough! 
 
+## [Basic NotePad application built in Java]
+
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png" width="341" height="671"/>
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png" width="341" height="671"/>
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png" width="341" height="671"/>
+
+A lightweight (and slightly bland) notepad app I've made for my Java course at KYH! The UI so far is quite basic but it has all the necessary functionality 
+with a save/load function as well as a delete function to boot. Something I'm looking to work further on a rainy day. 😎
+
+## [Basic Weather application built in SwiftUI]
+
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681423900683/Bluscreen.png" width="341" height="671"/>
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681738489866/nightScreen.png" width="341" height="671"/>
+
+A vibrant and colorful weather application made with SwiftUI! Has a simple colorscheme with a toggle button for day/night mode! 
+
+
+
+
+
+
 
