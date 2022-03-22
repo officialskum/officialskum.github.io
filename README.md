@@ -10,6 +10,10 @@ Frosty Overworld             |  Volcano Core Overworld
 :-------------------------:|:-------------------------:
 ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
 
+Image Gallery |
+:-----------------------:|
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955625793210445864/Screenshot_20220322_013129.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625792711307314/Screenshot_20220322_013320.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765305685213184/Screenshot_20220322_013238.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765302887579738/Screenshot_20220322_013406.png" width="15%"></img> 
+
 Start screen GIF |
 :---------------------------:|
 ![](https://drive.google.com/file/d/1yhjLrBNUiA652dhZJoAvmHLjAgnrICgf/view?usp=sharing)
