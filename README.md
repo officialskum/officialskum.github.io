@@ -8,7 +8,7 @@ Start Screen             |  Frosty Overworld
 
 In game (Level 1)             |  Volcano Core Overworld
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/372703682375974924/955625792983941260/Screenshot_20220322_013406.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
+![](https://cdn.discordapp.com/attachments/372703682375974924/955625792711307314/Screenshot_20220322_013320.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
 
 
 ### Hyper Pong info: 
