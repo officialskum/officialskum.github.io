@@ -2,7 +2,7 @@
 
 ## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/) 
 
-Image Gallery |
+Hyper Pong image gallery |
 :-----------------------:|
 <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625793210445864/Screenshot_20220322_013129.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625792711307314/Screenshot_20220322_013320.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765305685213184/Screenshot_20220322_013238.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765302887579738/Screenshot_20220322_013406.png" width="15%"></img> 
 
@@ -12,13 +12,10 @@ A group project me and a couple of friends from school worked on (Hampus Brandtm
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
-Start Screen             |  Start Screen (Disco Themed)
-:-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png)  | ![](https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png)
+Trivia Quiz image gallery     |  
+:-------------------------:
 
-In game view             |  Score Screen
-:-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png)  | ![](https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png)
+<img src="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487741699837973/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.37.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487741129425026/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.45.png" width="15%"></img>
 
 ### **Trivia Quiz** 
 
