@@ -10,11 +10,9 @@ Frosty Overworld             |  Volcano Core Overworld
 :-------------------------:|:-------------------------:
 ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
 
-
 ### **Hyper Pong**  
 
 A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own create theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
-
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
@@ -25,8 +23,6 @@ Start Screen             |  Start Screen (Disco Themed)
 In game view             |  Score Screen
 :-------------------------:|:-------------------------:
 ![](https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png)  | ![](https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png)
-
-
 
 ### **Trivia Quiz** 
 
@@ -58,10 +54,3 @@ Start Screen (Day mode)             | Start Screen (Night mode)
 
 A vibrant and colorful weather application made with SwiftUI. Has a simple gradient colorscheme with a toggle button for day/night mode. Will have to work 
 further on it to implement a proper API so it can finally be put to use! ☔
-
-
-
-
-
-
-
