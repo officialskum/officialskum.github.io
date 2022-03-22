@@ -56,7 +56,8 @@ Start Screen (Day mode)             | Start Screen (Night mode)
 
 ### **SwiftUI WeatherApp**
 
-A vibrant and colorful weather application made with SwiftUI! Has a simple colorscheme with a toggle button for day/night mode! 
+A vibrant and colorful weather application made with SwiftUI. Has a simple gradient colorscheme with a toggle button for day/night mode. Will have to work 
+further on it to implement a proper API so it can finally be put to use! ☔
 
 
 
