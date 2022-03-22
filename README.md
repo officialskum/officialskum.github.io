@@ -23,13 +23,9 @@ what you got right / wrong during your playthrough!
 
 ## [Basic NotePad application built in Java](https://github.com/officialskum/NotePad_v2.0)
 
-Start Screen             |  Start Screen (Alert message)
-:-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png)
-
-Inside a note              | 
-:-------------------------:|
-![](https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png)  | 
+NotePad v2.0 image gallery |
+:-----------------------:|
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png" width="15%"></img> 
 
 ### **NotePad v2.0**
 
@@ -38,9 +34,9 @@ with a save/load function as well as a delete function to boot. Something I'm lo
 
 ## [Basic Weather application built in SwiftUI](https://github.com/officialskum/WeatherApp_SwiftUi-)
 
-Start Screen (Day mode)             | Start Screen (Night mode)
-:-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/372703682375974924/955511681423900683/Bluscreen.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955511681738489866/nightScreen.png)
+SwiftUI WeatherApp image gallery |
+:-----------------------:|
+<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681423900683/Bluscreen.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511681738489866/nightScreen.png" width="15%"></img> 
 
 ### **SwiftUI WeatherApp**
 
