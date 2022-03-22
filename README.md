@@ -4,11 +4,11 @@
 
 Start Screen             |  In game (Level 1)
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/372703682375974924/955625793210445864/Screenshot_20220322_013129.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792711307314/Screenshot_20220322_013320.png)
+![](https://cdn.discordapp.com/attachments/372703682375974924/955625793210445864/Screenshot_20220322_013129.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792711307314/Screenshot_20220322_013320.png)
 
 Frosty Overworld             |  Volcano Core Overworld
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
+![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
 
 
 ### Hyper Pong info: 
@@ -20,11 +20,11 @@ A group project me and a couple of friends from school worked on (Hampus Brandtm
 
 Start Screen             |  Start Screen (Disco Themed)
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png)  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png)
+![](https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png)  | ![](https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png)
 
 In game view             |  Score Screen
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png)  |  ![](https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png)
+![](https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png)  | ![](https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png)
 
 
 
@@ -35,13 +35,13 @@ what you got right / wrong during your playthrough!
 
 ## [Basic NotePad application built in Java](https://github.com/officialskum/NotePad_v2.0)
 
-Start Screen            |  Start Screen (Alert message)
+Start Screen             |  Start Screen (Alert message)
 :-------------------------:|:-------------------------:
-!<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png" width="341" height="671"/>  |  <img src="https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png" width="341" height="671"/>
+![](https://cdn.discordapp.com/attachments/372703682375974924/955511722272239647/NotePad_startscreen.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955511722045759498/DeleteAlert.png)
 
-Inside a note             |  
+Inside a note              | 
 :-------------------------:|
-!<img src="https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png" width="341" height="671"/>   
+![](https://cdn.discordapp.com/attachments/372703682375974924/955511721794105394/Anteckningssida.png)  | 
 
 A lightweight (and slightly bland) notepad app I've made for my Java course at KYH! The UI so far is quite basic but it has all the necessary functionality 
 with a save/load function as well as a delete function to boot. Something I'm looking to work further on a rainy day. 😎
