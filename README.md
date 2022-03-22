@@ -10,6 +10,10 @@ Frosty Overworld             |  Volcano Core Overworld
 :-------------------------:|:-------------------------:
 ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)  | ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
 
+Start screen GIF |
+:---------------------------:|
+![](https://drive.google.com/file/d/1yhjLrBNUiA652dhZJoAvmHLjAgnrICgf/view?usp=sharing)
+
 ### **Hyper Pong**  
 
 A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own create theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
