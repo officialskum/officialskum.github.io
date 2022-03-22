@@ -4,11 +4,11 @@
 
 Start Screen             |  In game (Level 1)
 :-------------------------:|:-------------------------:
-![](https://media.discordapp.net/attachments/348467594115940354/955124238648508477/Startscreen.png?width=341&height=677)  |  ![](https://media.discordapp.net/attachments/348467594115940354/955124237234995250/IngameScreen.png?width=339&height=677)
+![](https://cdn.discordapp.com/attachments/372703682375974924/955625793210445864/Screenshot_20220322_013129.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792983941260/Screenshot_20220322_013406.png)
 
 Frosty Overworld             |  Volcano Core Overworld
 :-------------------------:|:-------------------------:
-![](https://media.discordapp.net/attachments/348467594115940354/955124238388449280/LevelSelectScreenTwo.png?width=339&height=677)  |  ![](https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677)
+![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
 
 
 ### Hyper Pong info: 
