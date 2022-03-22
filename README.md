@@ -2,13 +2,13 @@
 
 ## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/) 
 
-Start Screen             |  In game (Level 1)
+Start Screen             |  Frosty Overworld
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/372703682375974924/955625793210445864/Screenshot_20220322_013129.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792983941260/Screenshot_20220322_013406.png)
+![](https://cdn.discordapp.com/attachments/372703682375974924/955625793210445864/Screenshot_20220322_013129.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)
 
-Frosty Overworld             |  Volcano Core Overworld
+In game (Level 1)             |  Volcano Core Overworld
 :-------------------------:|:-------------------------:
-![](https://cdn.discordapp.com/attachments/372703682375974924/955625792333811773/Screenshot_20220322_013250.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
+![](https://cdn.discordapp.com/attachments/372703682375974924/955625792983941260/Screenshot_20220322_013406.png)  |  ![](https://cdn.discordapp.com/attachments/372703682375974924/955625793613074442/Screenshot_20220322_013232.png)
 
 
 ### Hyper Pong info: 
