@@ -1,6 +1,6 @@
 ## Andreas Jonassons Portfolio
 
-## [Hyper Pong](https://github.com/LucaSalmi/HyperPongGruppB/)
+## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/)
 
 
 Start ScreenO | In game (Level 1)
