@@ -12,7 +12,7 @@ A group project me and a couple of friends from school worked on (Hampus Brandtm
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
-Hyper Pong image gallery |
+Trivia Quiz image gallery |
 :-----------------------:|
 <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487738658979891/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.12.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487742186356766/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.18.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740181491812/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.06.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487740613509181/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.26.00.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487741699837973/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.37.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/940202792675606548/955487741129425026/Simulator_Screen_Shot_-_iPhone_13_-_2022-03-21_at_16.25.45.png" width="15%"></img>
 
