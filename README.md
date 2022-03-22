@@ -1,4 +1,4 @@
-## Andreas Jonassons Portfolio
+## Andreas Jonassons Portfolio **(GitHub links included in titles!)**
 
 ## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/) 
 
