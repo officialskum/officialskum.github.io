@@ -14,6 +14,11 @@ Frosty Overworld | Volcano Core Overworld
 
 ![Frame 2 cafe movie]!(https://media.discordapp.net/attachments/348467594115940354/955124238648508477/Startscreen.png?width=341&height=677) | (https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677)
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://media.discordapp.net/attachments/348467594115940354/955124238648508477/Startscreen.png?width=341&height=677)  |  ![](https://media.discordapp.net/attachments/348467594115940354/955124237234995250/IngameScreen.png?width=339&height=677)
+
+
 ### Hyper Pong info: 
 
 A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own create theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
