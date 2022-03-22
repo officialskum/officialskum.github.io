@@ -12,7 +12,7 @@ Frosty Overworld | Volcano Core Overworld
 :-------------------------:|:-------------------------:
 !<img src="https://media.discordapp.net/attachments/348467594115940354/955124238388449280/LevelSelectScreenTwo.png?width=339&height=677" width="341" height="677"/>  |  <img src="https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677" width="341" height="677"/>
 
-![Frame 1 cafe movie](https://media.discordapp.net/attachments/348467594115940354/955124238648508477/Startscreen.png?width=341&height=677)
+![Frame 2 cafe movie](https://media.discordapp.net/attachments/348467594115940354/955124238648508477/Startscreen.png?width=341&height=677) | (https://media.discordapp.net/attachments/348467594115940354/955124237918695434/LevelSelectScreenOne.png?width=342&height=677)
 
 ### Hyper Pong info: 
 
