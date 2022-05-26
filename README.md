@@ -10,6 +10,21 @@ Hyper Pong image gallery |
 
 A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own create theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
 
+## [M.A.D Tower Defence v1.1 (ONGOING)](https://github.com/LucaSalmi/MadDoctorTD) 
+
+Hyper Pong image gallery |
+:-----------------------:|
+<img src="https://cdn.discordapp.com/attachments/356196660491321355/978227067420282890/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.10.19.png" width="15%"></img> 
+<img src="https://cdn.discordapp.com/attachments/356196660491321355/978227065948098580/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.10.29.png" width="15%"></img> 
+<img src="https://cdn.discordapp.com/attachments/356196660491321355/978226998407221288/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.18.25.png" width="15%"></img> 
+<img src="https://cdn.discordapp.com/attachments/356196660491321355/978226998709190666/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.12.03.png" width="15%"></img> 
+<img src="https://cdn.discordapp.com/attachments/356196660491321355/978227084382044220/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.20.11.png" width="15%"></img> 
+<img src="https://cdn.discordapp.com/attachments/356196660491321355/978226998088450089/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.19.36.png" width="15%"></img> 
+
+### **M.A.D. Tower Defence**  
+
+Another group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own create theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
+
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
 Trivia Quiz image gallery |
