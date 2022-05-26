@@ -19,7 +19,7 @@ Hyper Pong image gallery |
 
 ### **M.A.D. Tower Defence**  
 
-Another group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own create theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
+Another group project I've been working on with my good friends Hampus Brandtman, Luca Salmi, Daniel Svensson and Calle Höglund from school! We've made a full-scale tower defense game through SpriteKit and SwiftUI with working upgrades, a really cool grid-building system for our foundation tiles that act as a barricade for the enemie as well as bosses! We've also got working pathfinding which I'm very proud of and as always Hampus really outdid himself with the assets. 🚀
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
@@ -53,3 +53,13 @@ SwiftUI WeatherApp image gallery |
 
 A vibrant and colorful weather application made with SwiftUI. Has a simple gradient colorscheme with a toggle button for day/night mode. Will have to work 
 further on it to implement a proper API so it can finally be put to use! ☔
+
+## [Messenger App for iOS] (ONGOING)
+
+SwiftUI Messenger App Gallery |
+:-----------------------:|
+<img src="https://user-images.githubusercontent.com/95219641/170578537-d857eaf3-1db9-442c-bd74-c237135ac3c3.png" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/170578617-c958cf94-330c-4250-aa6e-4500f329ca0e.png" width="15%"></img> 
+
+### **Messenger iOS App**
+
+Currently working on an app for iOS that aims to recreate common chat apps such as messenger, instagram, whatsapp and the like! Through firebase I've got a working backend and working on implementing a login authentication through Facebook, google and gmail (hopefully twitter as well but it's quite the process to get verified developer accounts through them 😅). Will update with pictures as soon as I've gotten the UI where I want it!
