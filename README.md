@@ -8,7 +8,7 @@ Hyper Pong image gallery |
 
 ### **Hyper Pong**  
 
-A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own create theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
+A group project me and a couple of friends from school worked on (Hampus Brandtman & Luca Salmi). We designed a working physics engine from the ground up inside Kotlin, custom graphic assets (kudos to Hampus). I even took the time to create our own theme song with some input from the group! The idea was to create a pong game with an RPG element where you could earn gems through playing which you could then spend in a gemshop for different perks (such as increase board-width, different powerups etc...)
 
 ## [M.A.D Tower Defence v1.1 (ONGOING)](https://github.com/LucaSalmi/MadDoctorTD) 
 
@@ -19,7 +19,7 @@ Hyper Pong image gallery |
 
 ### **M.A.D. Tower Defence**  
 
-Another group project I've been working on with my good friends Hampus Brandtman, Luca Salmi, Daniel Svensson and Calle Höglund from school! We've made a full-scale tower defense game through SpriteKit and SwiftUI with working upgrades, a really cool grid-building system for our foundation tiles that act as a barricade for the enemie as well as bosses! We've also got working pathfinding which I'm very proud of and as always Hampus really outdid himself with the assets. 🚀
+Another group project I've been working on with my good friends Hampus Brandtman, Luca Salmi, Daniel Svensson and Calle Höglund from school! We've made a full-scale tower defense game through SpriteKit and SwiftUI with working upgrades, a really cool grid-building system for our foundation tiles that act as a barricade for the enemies as well as bosses! We've also got working pathfinding which I'm very proud of and as always Hampus really outdid himself with the assets. 🚀
 
 ## [Trivia Quiz](https://github.com/sarahparah/triviaquiz)
 
