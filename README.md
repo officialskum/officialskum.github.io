@@ -17,7 +17,7 @@ Hyper Pong image gallery |
 
 <img src="https://cdn.discordapp.com/attachments/356196660491321355/978227067420282890/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.10.19.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/356196660491321355/978227065948098580/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.10.29.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/356196660491321355/978226998407221288/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.18.25.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/356196660491321355/978226998709190666/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.12.03.png" width="15%"></img> <img src="https://media.discordapp.net/attachments/356196660491321355/978227066375929877/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.22.48.png?width=250&height=541" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/356196660491321355/978226998088450089/Simulator_Screen_Shot_-_iPhone_13_Pro_-_2022-05-23_at_11.19.36.png" width="15%"></img>
 
-### **M.A.D. Tower Defence**  
+### **M.A.D. Tower Defense**  
 
 Another group project I've been working on with my good friends Hampus Brandtman, Luca Salmi, Daniel Svensson and Calle Höglund from school! We've made a full-scale tower defense game through SpriteKit and SwiftUI with working upgrades, a really cool grid-building system for our foundation tiles that act as a barricade for the enemies as well as bosses! We've also got working pathfinding which I'm very proud of and as always Hampus really outdid himself with the assets. 🚀
 
