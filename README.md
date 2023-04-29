@@ -7,7 +7,7 @@ Starmony image gallery |
 
 ### **Starmony**  
 
-During my time as an intern at Starmony, I had the opportunity to work on several exciting projects, including developing a new animated splash screen, a mixing screen, and a brand new artwork generator. I also gained more experience working with the Combine framework and Async/await. Despite the challenges of working on an app used by thousands of users, I enjoyed the experience and learned a ton of cool new things and got to meet some awesome people! 👨‍💻
+During my time as an intern at Starmony, I had the opportunity to work on several exciting projects, including developing a new animated masking splash screen, an animated mixing screen, and a brand new artwork generator. I also gained a ton of experience working with the Combine framework and Async/await. Despite the challenges of working on an app used by thousands of users, I thoroughly enjoyed the experience and learned a ton of cool new things and got to meet some awesome new people! 👨‍💻
 
 
 ## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/) 
