@@ -5,6 +5,9 @@ Starmony image gallery |
 :-----------------------:|
 <img src="https://user-images.githubusercontent.com/95219641/235299007-276b504d-cb66-4246-9e69-849db3006035.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235298260-10b76887-f67c-4989-ae6b-9eca68d10fa7.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235298729-01671f84-8d42-488a-9198-d610eba0115a.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235299018-26912482-119f-4272-a655-be309839bb2d.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235299862-4fca0ee8-66da-44a0-92c6-f04d6160821d.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235299846-307a8b33-763a-46ca-91b3-6cd021855659.jpg" width="15%"></img> 
 
+### **Starmony**  
+
+During my time as an intern at Starmony, I had the opportunity to work on several exciting projects, including developing a new animated splash screen, a mixing screen, and a brand new artwork generator. I also gained more experience working with the Combine framework and Async/await. Despite the challenges of working on an app used by thousands of users, I enjoyed the experience and learned a ton of cool new stuff! 👨‍💻
 
 
 ## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/) 
