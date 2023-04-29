@@ -3,7 +3,7 @@
 # [Starmony Internship](https://www.starmony.io/)
 Starmony image gallery |
 :-----------------------:|
-<img src="https://user-images.githubusercontent.com/95219641/235298260-10b76887-f67c-4989-ae6b-9eca68d10fa7.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235299007-276b504d-cb66-4246-9e69-849db3006035.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235298729-01671f84-8d42-488a-9198-d610eba0115a.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235299018-26912482-119f-4272-a655-be309839bb2d.gif" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765305685213184/Screenshot_20220322_013238.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765302887579738/Screenshot_20220322_013406.png" width="15%"></img> 
+<img src="https://user-images.githubusercontent.com/95219641/235299007-276b504d-cb66-4246-9e69-849db3006035.jpg" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235298260-10b76887-f67c-4989-ae6b-9eca68d10fa7.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235298729-01671f84-8d42-488a-9198-d610eba0115a.gif" width="15%"></img> <img src="https://user-images.githubusercontent.com/95219641/235299018-26912482-119f-4272-a655-be309839bb2d.gif" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765305685213184/Screenshot_20220322_013238.png" width="15%"></img> <img src="https://cdn.discordapp.com/attachments/889417057689559060/955765302887579738/Screenshot_20220322_013406.png" width="15%"></img> 
 
 
 
