@@ -1,7 +1,8 @@
 ## Andreas Jonassons Portfolio 
 
 # MY GIF
-![343940620_273853535001797_8269631787167976516_n](https://user-images.githubusercontent.com/95219641/235298260-10b76887-f67c-4989-ae6b-9eca68d10fa7.gif)
+<img src="https://user-images.githubusercontent.com/95219641/235298260-10b76887-f67c-4989-ae6b-9eca68d10fa7.gif" width="15%"></img>
+
 
 
 ## [Hyper Pong v1.5](https://github.com/LucaSalmi/HyperPongGruppB/) 
